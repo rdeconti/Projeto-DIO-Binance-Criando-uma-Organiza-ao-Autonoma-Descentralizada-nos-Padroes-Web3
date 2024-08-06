@@ -23,30 +23,23 @@ Neste Desafio você irá criar um PROJETO de uma DAO. Fique tranquilo, obviament
 - https://academy.binance.com/pt/articles/how-to-create-a-dao
 - [https://academy.binance.com/pt/articles/how-to-create-a-dao](https://medium.com/@dao-dao)
 - https://www.doola.com/pt/blog/how-to-start-a-dao-in-2024-a-complete-guide/
+- https://suaimprensa.com.br/blog/o-que-e-dao-tudo-o-que-voce-precisa-saber/
+- https://forbes.com.br/forbes-tech/2022/03/o-que-e-dao-conheca-as-organizacoes-autonomas-descentralizadas/
+- https://repositorio.enap.gov.br/bitstream/1/7252/1/Relat%C3%B3rio%20de%20pesquisa%20-%20WEB%203.0.pdf
 
 ## GitHub DAOs
 - https://github.com/blockchainsllc/DAO
-- 
 
 ## Criando uma DAO
-- Nomeie a DAO
+Uma organização autônoma descentralizada (DAO) é um contrato inteligente acordado que automatiza a tomada de decisões descentralizadas sobre um conjunto de recursos (tokens). Os usuários com tokens votam em como os recursos são gastos, e o código executa automaticamente o resultado da votação. Resumidamente necessitamos destes passos para criar uma DAO
 
-- Crie uma declaração da missão de sua DAO
-
-- Qual a entrega da DAO
-
-- Crie um servidor Discord
-
-- Crie uma conta no X (antigo Twitter)
-
-- Convide as pessoas para participar
-
-- Lance um token de governança
-
-- Crie um mecanismo de financiamento para captar os recursos da DAO
-
-- Configure o Snapshot ou outras ferramentas para votar e registrar as contribuições dos membros
-
-- Crie uma LLC
-
-
+- Nomeie a DAO: XPTO-DAO
+- Crie uma declaração da missão de sua DAO: em desenvolvimento
+- Qual a entrega da DAO: em desenvolvimento
+- Crie um servidor Discord: [Aguarde! Em breve estaremos divulgando o link]
+- Crie uma conta no X (antigo Twitter): [Aguarde! Em breve estaremos divulgando o link]
+- Convide as pessoas para participar: [Aguarde! Em breve estaremos divulgando o link]
+- Lance um token de governança: [Nossos token de governança serão lançados em breve]
+- Crie um mecanismo de financiamento para captar os recursos da DAO: em desenvolvimento
+- Configure o Snapshot ou outras ferramentas para votar e registrar as contribuições dos membros: em desenvolvimento
+- Crie uma LLC: em desenvolvimento
